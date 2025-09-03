@@ -15,11 +15,13 @@ Syntax highlighted code block
 ## First CS 19300 Homework
 ### Arjun's coding website
 
-- Bulleted
-- List
+- Teaches how to use git and GitHub
+- Useful for storing code and for organizing code
+- TA's are cool
+- Good for showing future interviewers 
 
-1. Numbered
-2. List
+1. I like CS 193
+2. Good way to learn about GitHub
 
 **Bold** and _Italic_ and `Code` text
 
