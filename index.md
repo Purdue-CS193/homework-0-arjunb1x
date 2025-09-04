@@ -1,39 +1,12 @@
-## Welcome to GitHub Pages
+# Arjun's First CS 19300 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Some of favorite things in CS 193 are:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Arjun Baalan
-## First CS 19300 Homework
-### Arjun's coding website
-
+- Lectures are easily accesible 
 - Teaches how to use git and GitHub
 - Useful for storing code and for organizing code
 - TA's are cool
 - Good for showing future interviewers 
 
-1. I like CS 193
-2. Good way to learn about GitHub
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
